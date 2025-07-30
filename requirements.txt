@@ -1,0 +1,37 @@
+# document
+python-docx
+docx2txt
+pytesseract
+markdown
+html5lib
+
+# data analyze
+pandas
+numpy
+PyYAML
+
+# UI
+customtkinter
+tkinterweb
+matplotlib
+mplcursors
+Pillow
+tkhtmlview
+
+# LLM & Embedding
+transformers
+torch
+sentence-transformers
+tiktoken
+
+# LangChain + Ollama + 向量库
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+chromadb
+
+unstructured
+requests
+aiofiles
+python-dotenv
